@@ -30,7 +30,7 @@ Automation is key for streamlining your work processes, and [GitHub Actions](htt
 - **How long**: This course is five steps long and can be finished in less than two hours.
 
 ## How to start this course
-
+:smiley:
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
   template_owner: 'skills',
